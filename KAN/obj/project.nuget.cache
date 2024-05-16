@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "XLFfWtWRtgJ1S438vJVXgHlRYtlMwp27en6hxQAjHvVNV2U5uh6Yi5BWPLwgPaufAUm8gF5056MnwKTnX4tzlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yuba\\Documents\\WorkSpace2\\KAN\\KAN\\KAN\\KAN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuba\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
+    "C:\\Users\\yuba\\.nuget\\packages\\libtorch-cpu-win-x64\\2.2.1.1\\libtorch-cpu-win-x64.2.2.1.1.nupkg.sha512",
+    "C:\\Users\\yuba\\.nuget\\packages\\sharpziplib\\1.4.0\\sharpziplib.1.4.0.nupkg.sha512",
+    "C:\\Users\\yuba\\.nuget\\packages\\skiasharp\\2.88.6\\skiasharp.2.88.6.nupkg.sha512",
+    "C:\\Users\\yuba\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.6\\skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
+    "C:\\Users\\yuba\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.6\\skiasharp.nativeassets.win32.2.88.6.nupkg.sha512",
+    "C:\\Users\\yuba\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\yuba\\.nuget\\packages\\torchsharp\\0.102.4\\torchsharp.0.102.4.nupkg.sha512"
+  ],
+  "logs": []
+}
